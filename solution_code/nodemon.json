@@ -1,0 +1,4 @@
+{
+    "DATABASE_URL": "mongodb+srv://vanity:ferrellchris145@cluster0.vebfrjp.mongodb.net/?retryWrites=true&w=majority",
+    "PORT": 3000
+}
